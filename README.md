@@ -165,3 +165,6 @@ stateDiagram-v2
     T_MINUTE --> T_SECOND: keys == MV_LEFT
 
 ```
+
+## 参考资料
+- [正点原子官方开发手册（数码管显示部分）](http://47.111.11.73/docs/boards/fpga/zdyz_dafenqi.html)
